@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542053567037.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "69051F3A",
+    "lastKnownWriteTime" : 1541716052,
+    "last_content_update" : 1541716052,
+    "path" : "~/Dropbox/Projects/inProgress/Hbird_Transplant/code_and_data/transplant_experiment/code/analysis/hmr_analysis_2018.R",
+    "project_path" : "code/analysis/hmr_analysis_2018.R",
+    "properties" : {
+        "cursorPosition" : "31,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
